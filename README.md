@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Alaa Osama
 
-<!--
-**alaa712005/alaa712005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer focused on solving real-world problems using data and machine learning.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Git
+- GitHub
+- C++
+- Problem Solving
+
+## Machine Learning
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Preprocessing
+- Feature Selection
+- Model Training
+- Hyperparameter Tuning
+- Model Evaluation
+- Project Deployment
+
+## Algorithms
+
+### Regression
+- Linear Regression
+
+### Classification
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- Naive Bayes
+- XGBoost
+
+### Clustering
+- K-Means
+
+## Featured Projects
+
+- 🚗 Car Price Prediction
+- 🏠 House Price Prediction
+- 💰 Employee Salary Prediction
+- ❤️ Heart Disease Prediction
+- 🩺 Medical Insurance Cost Prediction
+
+## Current Goal
+
+Building high-quality Machine Learning projects for real-world applications.
+
+## Connect with Me
+
+- LinkedIn: [Alaa Osama](https://www.linkedin.com/in/alaa-osama-656a7a2b0/)
+- Email: alaaosama712005@gmail.com 
